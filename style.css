@@ -28,3 +28,12 @@ mobile-menu{
   width: 30px;
   height: 55px;
 }
+.cardSize{
+  width: 50px!important;
+  height: 50px;
+  align-items: center;
+  float: right;
+}
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
